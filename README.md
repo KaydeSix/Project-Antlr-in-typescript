@@ -11,7 +11,7 @@ Cauã de França Brito, Carlos Eduardo Scorsoni Dias e Gustavo Bordignon
 
 ## Documentation
 
-https://link-da-documentação](https://docs.google.com/document/d/1yhon45oh72fv0uTqleEQ4FfHO2BAKhYreTjLnvA9tx0/edit?usp=sharing
+https://docs.google.com/document/d/1yhon45oh72fv0uTqleEQ4FfHO2BAKhYreTjLnvA9tx0/edit?usp=sharing
 
 
 ## Instalation
