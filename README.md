@@ -29,16 +29,16 @@ In terminal
 ## Test 01
 
 (2 4 -)
+((1 (4 RES) ^) (2 3 *) +)
 (3.1 (4.0 5.1 -) +)
 (1 1 /)
-(1 2 ^)
 ((1 RES) MEM)
+(1 2 ^)
 ((1 1 *) (1 2 +) /)
 (3 7 *)
 (13 MEM)
-((1 (4 RES) ^) (2 3 *) +)
 
-![WhatsApp Image 2024-04-02 at 7 46 29 PM](https://github.com/KaydeSix/Project-Antlr-in-typescript/assets/102918321/558bb6be-aef4-400c-bffc-e70a5430744b)
+![image](https://github.com/KaydeSix/Project-Antlr-in-typescript/assets/102918321/d2287e9b-7e52-40b6-881e-b9f37de9ea7c)
 
 
 ## Test 02
@@ -47,13 +47,13 @@ In terminal
 (2.5 (3.2 4.5 +) *)
 (2 3 /)
 (2 4 ^)
-((2 RES) MEM)
 ((3 2 *) (4 5 -) +)
 (4 9 *)
+((2 RES) MEM)
 (17 MEM)
 ((2 (5 RES) ^) (3 4 *) +)
 
-![image](https://github.com/KaydeSix/Project-Antlr-in-typescript/assets/102918321/b8b17f26-d1a9-490e-930c-a8b30aece6dd)
+![image](https://github.com/KaydeSix/Project-Antlr-in-typescript/assets/102918321/4e25bf1d-3095-4cb6-a1ee-6013c6861853)
 
 
 ## Test 03
@@ -65,6 +65,5 @@ In terminal
 ((6 2 ^) (7 2 /) +)
 (5 4 *)
 (20 MEM)
-((3 (8 RES) ^) (2 5 *) +)
+![image](https://github.com/KaydeSix/Project-Antlr-in-typescript/assets/102918321/80233a8d-f180-4e0c-8601-5f94ddc3f7ca)
 
-![image](https://github.com/KaydeSix/Project-Antlr-in-typescript/assets/102918321/dbb1c98f-d191-4e3c-ab40-e6660b093baa)
