@@ -1,0 +1,23 @@
+{
+  "name": "ci-calc-antlr-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "runner.ts",
+  "module": "node",
+  "scripts": {
+    "antlr4ts": "antlr4ts -visitor -o ./generated syntax.g4",
+    "build": "tsc -p ./tsconfig.json && node build/runner.js",
+    "start": "npm run antlr4ts && npm run build && node build/runner.js",
+    "reevaluate": "npm run build && node build/runner.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antlr4ts": "^0.5.0-alpha.4",
+    "antlr4ts-cli": "^0.5.0-alpha.4",
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
