@@ -1,5 +1,5 @@
 // Developed by: Gustavo Bordignon, Caua brito, Carlos eduardo
-grammar syntaxCalculator;
+grammar RPNCalculator;
 
 // Parser
 
