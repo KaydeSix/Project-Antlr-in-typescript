@@ -38,7 +38,8 @@ In terminal
 (3 7 *)<br>
 (13 MEM)<br>
 
-![image](https://github.com/KaydeSix/Project-Antlr-in-typescript/assets/102918321/d2287e9b-7e52-40b6-881e-b9f37de9ea7c)
+![image](https://github.com/KaydeSix/Project-Antlr-in-typescript/assets/105391247/c54f9a8e-f4dd-46e5-b628-188b9f76ff3e)
+
 
 
 ## Test 02
@@ -53,8 +54,7 @@ In terminal
 (17 MEM)<br>
 ((2 (5 RES) ^) (3 4 *) +)<br>
 
-![image](https://github.com/KaydeSix/Project-Antlr-in-typescript/assets/102918321/4e25bf1d-3095-4cb6-a1ee-6013c6861853)
-
+![image](https://github.com/KaydeSix/Project-Antlr-in-typescript/assets/105391247/dbdb1b10-2bb3-4ee8-b3f4-ffec36895d19)
 
 ## Test 03
 (8 2 /)<br>
@@ -66,5 +66,6 @@ In terminal
 (5 4 *)<br>
 (20 MEM)<br>
 
-![image](https://github.com/KaydeSix/Project-Antlr-in-typescript/assets/102918321/80233a8d-f180-4e0c-8601-5f94ddc3f7ca)
+![image](https://github.com/KaydeSix/Project-Antlr-in-typescript/assets/105391247/d2c28e6d-64f2-44ef-8536-51c06c69b7c5)
+
 
